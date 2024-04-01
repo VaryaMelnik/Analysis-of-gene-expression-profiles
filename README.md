@@ -8,4 +8,4 @@ This is a subset of the data provided by the `tissuesGeneExpression` package ava
 
 Heatmap created using the 50 most variable genes and the function heatmap.2. The dendrograms that are added on top and on the side are created with hierarchical clustering.
 
-1[Figure1](https://github.com/VaryaMelnik/Analysis-of-gene-expression-profiles/blob/main/Heatmap.png)
+![Figure1](https://github.com/VaryaMelnik/Analysis-of-gene-expression-profiles/blob/main/Heatmap.png)
